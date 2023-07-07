@@ -1,0 +1,1 @@
+turns speaker off when code is stopped by user
