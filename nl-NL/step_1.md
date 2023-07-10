@@ -1,10 +1,10 @@
-Een gebruiker kan handmatig de code stoppen die wordt uitgevoerd met behulp van het rode stoppictogram in Thonny. At this point, if a buzzer is making a sound the sound will continue playing - this can be very annoying!
+Een gebruiker kan handmatig de code stoppen die wordt uitgevoerd met behulp van het rode stoppictogram in Thonny. Op dit moment, als een zoemer een geluid maakt zal het geluid blijven afspelen - dit kan heel vervelend zijn!
 
-The following highlighted code uses `try:` and `finally:` to turn the buzzer off when the code is stopped by a user:
+De volgende gemarkeerde code gebruikt `try:` en `finally:` om de zoemer uit te schakelen wanneer de code is gestopt door een gebruiker:
 
 --- code ---
 ---
-language: python filename: sound_machine.py line_numbers: false line_number_start: 1
+taal: python bestandsnaam: sound_machine.py line_numbers: false line_number_start: 1
 line_highlights: 14, 18-19
 ---
 BEAT = 0.4
