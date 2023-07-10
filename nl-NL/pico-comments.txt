@@ -1,0 +1,1 @@
+schakel een luidspreker uit wanneer de code wordt gestopt door een gebruiker
