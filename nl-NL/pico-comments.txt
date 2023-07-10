@@ -1,1 +1,1 @@
-turns speaker off when code is stopped by user
+schakel een luidspreker uit wanneer de code wordt gestopt door een gebruiker
