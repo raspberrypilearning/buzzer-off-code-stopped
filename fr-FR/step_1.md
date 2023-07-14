@@ -1,6 +1,6 @@
-A user can manually stop code that is running using the red stop icon in Thonny. At this point, if a buzzer is making a sound the sound will continue playing - this can be very annoying!
+Un utilisateur peut arrêter manuellement le code en cours d'exécution à l'aide de l'icône d'arrêt rouge dans Thonny. À ce stade, si un buzzer émet un son, le son continuera à jouer - cela peut être très ennuyeux !
 
-The following highlighted code uses `try:` and `finally:` to turn the buzzer off when the code is stopped by a user:
+Le code en surbrillance suivant utilise `try:` et `finally:` pour désactiver le buzzer lorsque le code est arrêté par un utilisateur :
 
 --- code ---
 ---
