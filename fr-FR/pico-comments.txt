@@ -1,0 +1,1 @@
+éteint le haut-parleur lorsque le code est arrêté par l'utilisateur
